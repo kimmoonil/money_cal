@@ -11,7 +11,7 @@ var cal = function(potionPrice,item,ability,farm,phantom,unionbuff,mesoPerMin){
         count++;
         devationCal += deviation;
     }
-
+ 
     return count;
 }
 module.exports = cal;
